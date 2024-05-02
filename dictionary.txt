@@ -1,0 +1,5 @@
+hi:hi
+bad:سيء
+me:انا
+hello:مرحبا
+sam:سام

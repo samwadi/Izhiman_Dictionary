@@ -1,5 +1,6 @@
-hi:hi
+hi:هاي
 bad:سيء
+yes:نعم
 me:انا
 hello:مرحبا
 sam:سام

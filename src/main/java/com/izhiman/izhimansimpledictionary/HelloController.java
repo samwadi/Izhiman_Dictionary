@@ -62,6 +62,8 @@ public class HelloController {
                 addingText.setText("Error saving data to file");
             }
             loadData();
+        }else {
+            addingText.setText("Please enter valid data!");
         }
     }
 
